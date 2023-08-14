@@ -96,16 +96,16 @@ public void update () {
 
   //bouncer direction
   if (xBouncer >= width) {
-    speedX = -1* speedX;
+    speedX *= -1;
   } else if (yBouncer >= height) {
-    speedY = -1* speedY;
+    speedY *= -1;
   } else if (xBouncer <= 0) {
-    speedX = -1* speedX;
+    speedX *= -1;
   } else if (yBouncer <= 0) {
-    speedY = -1* speedY;
+    speedY *= -1;
   }
 
-  //off screen bug fix
+//off screen bug fix
   if (xBouncer > width) {
     xBouncer = width-1;
     //left side
@@ -130,8 +130,8 @@ public void update () {
     yBouncer = height/2;
     speedX = random(random1, random2);
     speedY = random(random1, random2);
-    speedX = -1* speedX;
-    speedY = -1* speedY;
+    speedX *= -1;
+    speedY *= -1;
   } else if (xBouncer <= 10) {
     scoreRight = scoreRight + 1;
     text(scoreRight, width/2 + 100, 50);
@@ -152,10 +152,10 @@ public void update () {
 
 //collision detection
   if (xBouncer >= 1200 && yBouncer >= yRight-10 && yBouncer <= (yRight + 120)) {
-    speedX = -1* speedX;
+    speedX *= -1;
   }
   if (xBouncer <= 75 && yBouncer >= yLeft-10 && yBouncer <= (yLeft + 120)) {
-    speedX = -1* speedX;
+    speedX *= -1;
   }
 
 //players offscreen fix
@@ -185,7 +185,7 @@ public void update () {
     text("Click UP arrow for new game", width/2, 600);
     }
   }
-
+//bouncer trail
   int which = frameCount % num;
   mx[which] = xBouncer;
   my[which] = yBouncer;
