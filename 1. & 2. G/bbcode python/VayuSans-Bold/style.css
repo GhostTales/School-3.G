@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Vayu Sans';
+    src: local('Vayu Sans Bold'), local('Vayu-Sans-Bold'),
+        url('VayuSans-Bold.woff2') format('woff2'),
+        url('VayuSans-Bold.woff') format('woff'),
+        url('VayuSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
