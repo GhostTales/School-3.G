@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://b4nysopnc465v"]
+
+[ext_resource type="Texture2D" uid="uid://ctoakmcq0ilv8" path="res://icon.svg" id="1_v4tw8"]
+[ext_resource type="Script" path="res://robo.cs" id="2_3g2dm"]
+
+[node name="robo" type="Sprite2D"]
+position = Vector2(291, 263)
+texture = ExtResource("1_v4tw8")
+script = ExtResource("2_3g2dm")
+
+[node name="spare parts" type="Sprite2D" parent="."]
+position = Vector2(198, 84)
+scale = Vector2(0.671875, 0.671875)
+texture = ExtResource("1_v4tw8")
