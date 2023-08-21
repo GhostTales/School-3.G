@@ -1,0 +1,15 @@
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\obj\Debug\net7.0\Palindrom.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\obj\Debug\net7.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\obj\Debug\net7.0\Palindrom.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\obj\Debug\net7.0\Palindrom.AssemblyInfo.cs
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\obj\Debug\net7.0\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\bin\Debug\net7.0\Palindrom.exe
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\bin\Debug\net7.0\Palindrom.deps.json
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\bin\Debug\net7.0\Palindrom.runtimeconfig.json
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\bin\Debug\net7.0\Palindrom.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\bin\Debug\net7.0\Palindrom.pdb
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\obj\Debug\net7.0\Palindrom.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\obj\Debug\net7.0\refint\Palindrom.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\obj\Debug\net7.0\Palindrom.pdb
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\obj\Debug\net7.0\Palindrom.genruntimeconfig.cache
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Palindrom\obj\Debug\net7.0\ref\Palindrom.dll
