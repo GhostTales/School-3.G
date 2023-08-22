@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-int Fakultet(int i)
+long Fakultet(int i)
 {
     if (i < 0)
         return 0;
@@ -12,4 +12,4 @@ int Fakultet(int i)
     return i * Fakultet(i - 1);
 }
 
-Console.WriteLine(Fakultet(32));
+Console.WriteLine(Fakultet(20));
