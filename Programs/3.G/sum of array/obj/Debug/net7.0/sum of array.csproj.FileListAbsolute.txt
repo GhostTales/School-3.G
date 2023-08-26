@@ -1,0 +1,15 @@
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\obj\Debug\net7.0\sum of array.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\obj\Debug\net7.0\sum of array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\obj\Debug\net7.0\sum of array.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\obj\Debug\net7.0\sum of array.AssemblyInfo.cs
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\obj\Debug\net7.0\sum of array.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\bin\Debug\net7.0\sum of array.exe
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\bin\Debug\net7.0\sum of array.deps.json
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\bin\Debug\net7.0\sum of array.runtimeconfig.json
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\bin\Debug\net7.0\sum of array.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\bin\Debug\net7.0\sum of array.pdb
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\obj\Debug\net7.0\sum of array.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\obj\Debug\net7.0\refint\sum of array.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\obj\Debug\net7.0\sum of array.pdb
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\obj\Debug\net7.0\sum of array.genruntimeconfig.cache
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\sum of array\obj\Debug\net7.0\ref\sum of array.dll
