@@ -1,0 +1,30 @@
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\bin\Debug\net7.0\Chessboard.exe
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\bin\Debug\net7.0\Chessboard.deps.json
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\bin\Debug\net7.0\Chessboard.runtimeconfig.json
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\bin\Debug\net7.0\Chessboard.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\bin\Debug\net7.0\Chessboard.pdb
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\obj\Debug\net7.0\Chessboard.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\obj\Debug\net7.0\Chessboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\obj\Debug\net7.0\Chessboard.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\obj\Debug\net7.0\Chessboard.AssemblyInfo.cs
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\obj\Debug\net7.0\Chessboard.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\obj\Debug\net7.0\Chessboard.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\obj\Debug\net7.0\refint\Chessboard.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\obj\Debug\net7.0\Chessboard.pdb
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\obj\Debug\net7.0\Chessboard.genruntimeconfig.cache
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Chessboard\obj\Debug\net7.0\ref\Chessboard.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\bin\Debug\net7.0\Chessboard.exe
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\bin\Debug\net7.0\Chessboard.deps.json
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\bin\Debug\net7.0\Chessboard.runtimeconfig.json
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\bin\Debug\net7.0\Chessboard.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\bin\Debug\net7.0\Chessboard.pdb
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\obj\Debug\net7.0\Chessboard.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\obj\Debug\net7.0\Chessboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\obj\Debug\net7.0\Chessboard.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\obj\Debug\net7.0\Chessboard.AssemblyInfo.cs
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\obj\Debug\net7.0\Chessboard.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\obj\Debug\net7.0\Chessboard.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\obj\Debug\net7.0\refint\Chessboard.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\obj\Debug\net7.0\Chessboard.pdb
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\obj\Debug\net7.0\Chessboard.genruntimeconfig.cache
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Elev Classes\obj\Debug\net7.0\ref\Chessboard.dll

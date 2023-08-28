@@ -1,0 +1,15 @@
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\obj\Debug\net7.0\Terning Class.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\obj\Debug\net7.0\Terning Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\obj\Debug\net7.0\Terning Class.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\obj\Debug\net7.0\Terning Class.AssemblyInfo.cs
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\obj\Debug\net7.0\Terning Class.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\bin\Debug\net7.0\Terning Class.exe
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\bin\Debug\net7.0\Terning Class.deps.json
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\bin\Debug\net7.0\Terning Class.runtimeconfig.json
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\bin\Debug\net7.0\Terning Class.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\bin\Debug\net7.0\Terning Class.pdb
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\obj\Debug\net7.0\Terning Class.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\obj\Debug\net7.0\refint\Terning Class.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\obj\Debug\net7.0\Terning Class.pdb
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\obj\Debug\net7.0\Terning Class.genruntimeconfig.cache
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Terning Class\obj\Debug\net7.0\ref\Terning Class.dll
