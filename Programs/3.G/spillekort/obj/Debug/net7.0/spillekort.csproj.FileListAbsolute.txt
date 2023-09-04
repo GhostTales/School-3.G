@@ -1,0 +1,15 @@
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\obj\Debug\net7.0\spillekort.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\obj\Debug\net7.0\spillekort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\obj\Debug\net7.0\spillekort.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\obj\Debug\net7.0\spillekort.AssemblyInfo.cs
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\obj\Debug\net7.0\spillekort.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\bin\Debug\net7.0\spillekort.exe
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\bin\Debug\net7.0\spillekort.deps.json
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\bin\Debug\net7.0\spillekort.runtimeconfig.json
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\bin\Debug\net7.0\spillekort.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\bin\Debug\net7.0\spillekort.pdb
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\obj\Debug\net7.0\spillekort.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\obj\Debug\net7.0\refint\spillekort.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\obj\Debug\net7.0\spillekort.pdb
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\obj\Debug\net7.0\spillekort.genruntimeconfig.cache
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\spillekort\obj\Debug\net7.0\ref\spillekort.dll
