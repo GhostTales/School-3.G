@@ -16,6 +16,7 @@ public partial class bat : CharacterBody2D
 		if (Input.IsKeyPressed(Key.A))
 		{
 			this.Position += new Vector2(-AMOUNT, 0);
+			
 		}
 		if (Input.IsKeyPressed(Key.D))
 		{
