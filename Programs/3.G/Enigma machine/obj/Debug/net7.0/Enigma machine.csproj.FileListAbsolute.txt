@@ -1,0 +1,15 @@
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\obj\Debug\net7.0\Enigma machine.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\obj\Debug\net7.0\Enigma machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\obj\Debug\net7.0\Enigma machine.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\obj\Debug\net7.0\Enigma machine.AssemblyInfo.cs
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\obj\Debug\net7.0\Enigma machine.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\bin\Debug\net7.0\Enigma machine.exe
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\bin\Debug\net7.0\Enigma machine.deps.json
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\bin\Debug\net7.0\Enigma machine.runtimeconfig.json
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\bin\Debug\net7.0\Enigma machine.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\bin\Debug\net7.0\Enigma machine.pdb
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\obj\Debug\net7.0\Enigma machine.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\obj\Debug\net7.0\refint\Enigma machine.dll
+C:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\obj\Debug\net7.0\Enigma machine.pdb
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\obj\Debug\net7.0\Enigma machine.genruntimeconfig.cache
+c:\Users\Dan\Desktop\programming\School-3.G\Programs\3.G\Enigma machine\obj\Debug\net7.0\ref\Enigma machine.dll
