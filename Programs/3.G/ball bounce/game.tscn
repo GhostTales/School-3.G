@@ -1,9 +1,10 @@
-[gd_scene load_steps=8 format=3 uid="uid://vknw6pgswrf4"]
+[gd_scene load_steps=11 format=3 uid="uid://vknw6pgswrf4"]
 
-[ext_resource type="Texture2D" uid="uid://x647q8o3r4kh" path="res://icon.svg" id="1_hcvla"]
-[ext_resource type="Script" path="res://Ball.cs" id="1_iop7o"]
 [ext_resource type="Texture2D" uid="uid://q2unqhhx7oj5" path="res://sliderb.png" id="1_qr4f2"]
-[ext_resource type="Script" path="res://bat.cs" id="2_w1svo"]
+[ext_resource type="Script" path="res://bat.cs" id="3_bspbk"]
+[ext_resource type="Texture2D" uid="uid://5x6k1v3emuea" path="res://ColorBoxArt/green.png" id="4_4n1m5"]
+[ext_resource type="Texture2D" uid="uid://bdauj5ntbmoa2" path="res://ColorBoxArt/red.png" id="5_m4t5l"]
+[ext_resource type="Script" path="res://Label.cs" id="6_t3bio"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_tmdmb"]
 friction = 0.0
@@ -15,15 +16,20 @@ radius = 10.5
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_jnbjb"]
 size = Vector2(176, 20)
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_0seoh"]
+size = Vector2(1440, 162.5)
+
+[sub_resource type="LabelSettings" id="LabelSettings_1a7lf"]
+
 [node name="Game" type="Node2D"]
 
 [node name="Ball" type="RigidBody2D" parent="."]
 position = Vector2(576, 324)
 physics_material_override = SubResource("PhysicsMaterial_tmdmb")
 gravity_scale = 0.0
+contact_monitor = true
 linear_velocity = Vector2(500, -500)
 linear_damp_mode = 1
-script = ExtResource("1_iop7o")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Ball"]
 scale = Vector2(2, 2)
@@ -36,18 +42,52 @@ texture = ExtResource("1_qr4f2")
 
 [node name="bat" type="CharacterBody2D" parent="."]
 position = Vector2(576, 576)
-script = ExtResource("2_w1svo")
+script = ExtResource("3_bspbk")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="bat"]
 shape = SubResource("RectangleShape2D_jnbjb")
 one_way_collision_margin = 10.0
 
 [node name="Sprite2D" type="Sprite2D" parent="bat"]
-position = Vector2(-1.52588e-05, -1.14441e-05)
-scale = Vector2(1.375, 0.15625)
-texture = ExtResource("1_hcvla")
+position = Vector2(-1.14441e-05, -3.33786e-05)
+scale = Vector2(5.5, 0.624999)
+texture = ExtResource("4_4n1m5")
 
 [node name="boundary" type="StaticBody2D" parent="."]
 
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="boundary"]
-polygon = PackedVector2Array(0, 0, 1152, 0, 1152, 648, 1397, 835, 1395, -211, -299, -205, -305, 835, 1401, 837, 1152, 648, 0, 648)
+polygon = PackedVector2Array(0, 0, 1152, 0, 1152, 648, 1295, 648, 1295, -187, -152, -186, -152, 648, 0, 648)
+
+[node name="bottom" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="bottom"]
+position = Vector2(570, 718.75)
+shape = SubResource("RectangleShape2D_0seoh")
+
+[node name="Sprite2D" type="Sprite2D" parent="bottom"]
+position = Vector2(578.5, 647.5)
+scale = Vector2(36.3438, 0.656251)
+texture = ExtResource("5_m4t5l")
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_left = 62.5
+offset_top = 34.5
+offset_right = 102.5
+offset_bottom = 74.5
+
+[node name="scorelabel" type="Label" parent="Control"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 4.65
+anchor_top = 2.675
+anchor_right = 6.25
+anchor_bottom = 3.35
+offset_left = -220.5
+offset_top = -116.5
+offset_right = -208.5
+offset_bottom = -106.5
+text = "Score: 0"
+label_settings = SubResource("LabelSettings_1a7lf")
+script = ExtResource("6_t3bio")
