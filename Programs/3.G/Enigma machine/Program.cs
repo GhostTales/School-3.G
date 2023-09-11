@@ -1,5 +1,5 @@
 ﻿
-
+// https://en.wikipedia.org/wiki/Enigma_rotor_details#Rotor_wiring_tables
 
 Rotor wheel_I = new Rotor("EKMFLGDQVZNTOWYHXUSPAIBRCJ");
 Rotor wheel_II = new Rotor("AJDKSIRUXBLHWTMCQGZNPYFVOE");
