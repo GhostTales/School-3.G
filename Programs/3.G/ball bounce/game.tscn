@@ -4,7 +4,7 @@
 [ext_resource type="Script" path="res://bat.cs" id="3_bspbk"]
 [ext_resource type="Texture2D" uid="uid://5x6k1v3emuea" path="res://ColorBoxArt/green.png" id="4_4n1m5"]
 [ext_resource type="Texture2D" uid="uid://bdauj5ntbmoa2" path="res://ColorBoxArt/red.png" id="5_m4t5l"]
-[ext_resource type="Script" path="res://Label.cs" id="6_t3bio"]
+[ext_resource type="Script" path="res://scorelabel.cs" id="5_mifxd"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_tmdmb"]
 friction = 0.0
@@ -14,7 +14,7 @@ bounce = 1.0
 radius = 10.5
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_jnbjb"]
-size = Vector2(176, 20)
+size = Vector2(244, 20)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_0seoh"]
 size = Vector2(1440, 162.5)
@@ -49,8 +49,7 @@ shape = SubResource("RectangleShape2D_jnbjb")
 one_way_collision_margin = 10.0
 
 [node name="Sprite2D" type="Sprite2D" parent="bat"]
-position = Vector2(-1.14441e-05, -3.33786e-05)
-scale = Vector2(5.5, 0.624999)
+scale = Vector2(7.59375, 0.624999)
 texture = ExtResource("4_4n1m5")
 
 [node name="boundary" type="StaticBody2D" parent="."]
@@ -90,4 +89,4 @@ offset_right = -208.5
 offset_bottom = -106.5
 text = "Score: 0"
 label_settings = SubResource("LabelSettings_1a7lf")
-script = ExtResource("6_t3bio")
+script = ExtResource("5_mifxd")

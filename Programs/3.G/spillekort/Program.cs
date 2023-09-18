@@ -1,7 +1,28 @@
-﻿Card heart = new Card('H', 13);
+﻿Deck set = new Deck(true);
+set.Shuffle(100);
 
-Card_set set = new Card_set();
 
-Console.WriteLine(heart.CardInfo());
-set.CreateSet();
-Console.WriteLine(set.GetCardSet());
+for (int i = 0; i < 52; i++)
+{
+    Console.WriteLine(set.Draw().CardInfo());
+}
+
+
+Console.WriteLine("###################################");
+
+
+for (int i = 0; i < set.NumOfCards(); i++)
+{
+    Console.WriteLine(set.GetCardInSet(i).CardInfo());
+}
+
+Console.WriteLine("###################################");
+
+set.NewDeck();
+
+for (int i = 0; i < set.NumOfCards(); i++)
+{
+    Console.WriteLine(set.GetCardInSet(i).CardInfo());
+}
+
+Console.WriteLine("###################################");

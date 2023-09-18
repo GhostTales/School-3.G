@@ -5,7 +5,7 @@ public class Card
 
     public Card(char c, int i)
     {
-        if (i > 0 && i < 14 && (c == 'H' || c == 'C' || c == 'D' || c == 'S'))
+        if (i > 0 && i < 14 && (c == 'H' || c == 'C' || c == 'D' || c == 'S' || c == 'J'))
         {
             this.value = i;
             this.name = c;
@@ -25,6 +25,8 @@ public class Card
             return "Diamonds";
         if (c == 'S')
             return "Spades";
+        if (c == 'J')
+            return "Joker";
 
         else return "?";
     }
