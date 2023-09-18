@@ -1,5 +1,4 @@
 
-
 public class Deck
 {
     private int value_max = 13;
