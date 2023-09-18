@@ -64,7 +64,6 @@ public class Deck
         return temp;
     }
 
-
     public void NewDeck()
     {
         set.Clear();
@@ -95,5 +94,13 @@ public class Deck
     }
 
     public int NumOfCards() { return set.Count; }
+
+    public bool Insert(Card c)
+    {
+        if (set.Exists(card => c.CardInfo == card.CardInfo)) { return false; }
+
+        set.Insert(rnd.Next(1, set.Count + 1), c);
+        return true;
+    }
 }
 
