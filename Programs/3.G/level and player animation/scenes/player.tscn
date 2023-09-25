@@ -1,7 +1,8 @@
-[gd_scene load_steps=56 format=3 uid="uid://yhuwhw5i6016"]
+[gd_scene load_steps=57 format=3 uid="uid://yhuwhw5i6016"]
 
 [ext_resource type="Script" path="res://scripts/player.cs" id="1_4287k"]
 [ext_resource type="Texture2D" uid="uid://b574r4tj3atp3" path="res://art/characters/player.png" id="2_r62rq"]
+[ext_resource type="AudioStream" uid="uid://dem3oafh6hi0y" path="res://sound/sfx_step_grass_l.ogg" id="3_5rlhr"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_xtcr7"]
 atlas = ExtResource("2_r62rq")
@@ -436,3 +437,6 @@ position = Vector2(0, -2)
 zoom = Vector2(4, 4)
 position_smoothing_enabled = true
 position_smoothing_speed = 2.5
+
+[node name="walking" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("3_5rlhr")

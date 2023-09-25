@@ -4,12 +4,14 @@ using Godot;
 
 public partial class player : CharacterBody2D
 {
-	AnimatedSprite2D anim;
+	private AnimatedSprite2D anim;
+	private AudioStreamPlayer2D walking;
 	public Vector2 current_dir = new Vector2(0, 0); // Vi gemmer retning her
 
 	public override void _Ready()
 	{
 		anim = GetNode<AnimatedSprite2D>("AnimatedSprite2D");
+		walking = GetNode<AudioStreamPlayer2D>("walking");
 		anim.Play("idle");
 	}
 
@@ -20,14 +22,16 @@ public partial class player : CharacterBody2D
 	{
 		Vector2 inputDirection = Input.GetVector("left", "right", "up", "down");
 		Velocity = inputDirection * Speed;
-		
-		if (inputDirection != new Vector2(0,0)) {
+
+		if (inputDirection != new Vector2(0, 0))
+		{
 			PlayAnimation(1);
+			walking.Play();
 			current_dir = inputDirection;
-			}
-		else 
+		}
+		else
 			PlayAnimation(0);
-			
+
 
 	}
 
@@ -42,7 +46,7 @@ public partial class player : CharacterBody2D
 
 		Vector2 dir = current_dir;
 
-		if (dir == new Vector2(1,0))
+		if (dir == new Vector2(1, 0))
 		{
 			anim.FlipH = false;
 			if (movement == 1)

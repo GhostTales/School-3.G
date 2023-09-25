@@ -1,8 +1,10 @@
-[gd_scene load_steps=18 format=3 uid="uid://c10hxrsit8jk"]
+[gd_scene load_steps=28 format=3 uid="uid://c10hxrsit8jk"]
 
 [ext_resource type="Script" path="res://scripts/item_spin.cs" id="1_rbgeu"]
 [ext_resource type="Texture2D" uid="uid://bwxqtl0uj1lgj" path="res://art/objects/gem.png" id="1_tgw7l"]
 [ext_resource type="Texture2D" uid="uid://dc7xkgqor2fv7" path="res://art/objects/coin_silver.png" id="2_6q4kg"]
+[ext_resource type="Texture2D" uid="uid://bcwwngd7nqp6g" path="res://art/objects/coin_gold.png" id="3_evqm3"]
+[ext_resource type="AudioStream" uid="uid://c37ujmhuatc03" path="res://sound/pick_up.ogg" id="5_p3ux8"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_e4qcn"]
 atlas = ExtResource("1_tgw7l")
@@ -23,6 +25,38 @@ region = Rect2(45, 0, 15, 13)
 [sub_resource type="AtlasTexture" id="AtlasTexture_7q8iy"]
 atlas = ExtResource("1_tgw7l")
 region = Rect2(60, 0, 15, 13)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jb0u7"]
+atlas = ExtResource("3_evqm3")
+region = Rect2(0, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ar0fd"]
+atlas = ExtResource("3_evqm3")
+region = Rect2(32, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_n1bw5"]
+atlas = ExtResource("3_evqm3")
+region = Rect2(64, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_60mrw"]
+atlas = ExtResource("3_evqm3")
+region = Rect2(96, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_mldqv"]
+atlas = ExtResource("3_evqm3")
+region = Rect2(128, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_5b2i2"]
+atlas = ExtResource("3_evqm3")
+region = Rect2(160, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_dadix"]
+atlas = ExtResource("3_evqm3")
+region = Rect2(192, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_yykmq"]
+atlas = ExtResource("3_evqm3")
+region = Rect2(224, 0, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_4l0yd"]
 atlas = ExtResource("2_6q4kg")
@@ -78,7 +112,31 @@ animations = [{
 "name": &"gem_spin",
 "speed": 5.0
 }, {
-"frames": [],
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_jb0u7")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ar0fd")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_n1bw5")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_60mrw")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_mldqv")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_5b2i2")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_dadix")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_yykmq")
+}],
 "loop": true,
 "name": &"gold_coin_spin",
 "speed": 5.0
@@ -119,6 +177,9 @@ script = ExtResource("1_rbgeu")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 y_sort_enabled = true
 sprite_frames = SubResource("SpriteFrames_kos54")
-animation = &"silver_coin_spin"
-frame = 6
-frame_progress = 0.549447
+animation = &"gold_coin_spin"
+frame = 5
+frame_progress = 0.576051
+
+[node name="pick_up" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("5_p3ux8")
