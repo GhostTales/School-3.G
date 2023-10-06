@@ -1,0 +1,14 @@
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\bin\Debug\net7.0\Shapes.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\bin\Debug\net7.0\Shapes.deps.json
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\bin\Debug\net7.0\Shapes.runtimeconfig.json
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\bin\Debug\net7.0\Shapes.dll
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\bin\Debug\net7.0\Shapes.pdb
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\obj\Debug\net7.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\obj\Debug\net7.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\obj\Debug\net7.0\Shapes.AssemblyInfo.cs
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\obj\Debug\net7.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\obj\Debug\net7.0\Shapes.dll
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\obj\Debug\net7.0\refint\Shapes.dll
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\obj\Debug\net7.0\Shapes.pdb
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\obj\Debug\net7.0\Shapes.genruntimeconfig.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Shapes\obj\Debug\net7.0\ref\Shapes.dll
