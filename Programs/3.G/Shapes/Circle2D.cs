@@ -5,14 +5,6 @@ public class Circle2D : Shape2D
     {
         this.Radius = r;
     }
-
-    public override float Area
-    {
-        get { return (float)(Math.Pow(Radius, 2) * Math.PI); }
-    }
-
-    public override float Circumference
-    {
-        get { return (float)(2 * Radius * Math.PI); }
-    }
+    public override float Area { get { return (float)(Math.Pow(Radius, 2) * Math.PI); } }
+    public override float Circumference { get { return (float)(2 * Radius * Math.PI); } }
 }
