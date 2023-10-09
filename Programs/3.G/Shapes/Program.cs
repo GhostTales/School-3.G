@@ -1,6 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Circle myObj = new Circle("Circle");
-myObj.Sides = 1;
-myObj.Radius = -12;
+﻿Circle2D circle = new Circle2D(12);
+Shape2D circle2 = new Circle2D(5);
 
-Console.WriteLine(myObj.info());
+Console.WriteLine(circle.Area);
+
+Console.WriteLine(circle2.Area);
