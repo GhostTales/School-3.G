@@ -1,0 +1,14 @@
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\bin\Debug\net7.0-windows\PolySolve.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\bin\Debug\net7.0-windows\PolySolve.deps.json
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\bin\Debug\net7.0-windows\PolySolve.runtimeconfig.json
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\bin\Debug\net7.0-windows\PolySolve.dll
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\bin\Debug\net7.0-windows\PolySolve.pdb
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\obj\Debug\net7.0-windows\PolySolve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\obj\Debug\net7.0-windows\PolySolve.AssemblyInfoInputs.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\obj\Debug\net7.0-windows\PolySolve.AssemblyInfo.cs
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\obj\Debug\net7.0-windows\PolySolve.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\obj\Debug\net7.0-windows\PolySolve.dll
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\obj\Debug\net7.0-windows\refint\PolySolve.dll
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\obj\Debug\net7.0-windows\PolySolve.pdb
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\obj\Debug\net7.0-windows\PolySolve.genruntimeconfig.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PolySolve\obj\Debug\net7.0-windows\ref\PolySolve.dll
