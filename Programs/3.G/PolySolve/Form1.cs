@@ -11,33 +11,39 @@ public partial class Form1 : Form
     public Button Beregn = new Button();
     public Button Rens = new Button();
     public Button Afslut = new Button();
-
+    public Polysolve? poly;
     public Form1()
     {
         InitializeComponent();
 
-        this.Size = new Size(260, 220);
+        this.Size = new Size(320, 220);
 
         label(10, 25, "Var A:");
         label(10, 50, "Var B:");
         label(10, 75, "Var C:");
 
         textbox(50, 20, "Var_A", Var_A);
+        Var_A.Width = 160;
         textbox(50, 45, "Var_B", Var_B);
+        Var_B.Width = 160;
         textbox(50, 70, "Var_C", Var_C);
+        Var_C.Width = 160;
 
         label(10, 125, "Result");
         textbox(50, 120, "Result", Result);
-        Result.Width = 185;
+        Result.Width = 245;
+        Result.Multiline = true;
+        Result.WordWrap = true;
+        Result.Height = 50;
 
 
-        button(160, 20, 75, "Beregn", Beregn);
+        button(220, 20, 75, "Beregn", Beregn);
         Beregn.Click += new EventHandler(Beregn_Click);
 
-        button(160, 45, 75, "Rens", Rens);
+        button(220, 45, 75, "Rens", Rens);
         Rens.Click += new EventHandler(Rens_Click);
 
-        button(160, 70, 75, "Afslut", Afslut);
+        button(220, 70, 75, "Afslut", Afslut);
         Afslut.Click += new EventHandler(Afslut_Click);
 
     }
@@ -80,19 +86,30 @@ public partial class Form1 : Form
 
     private void Beregn_Click(object? sender, EventArgs e)
     {
-        Result.Text = $"0 = {Var_A.Text}x^2 + {Var_B.Text}x + {Var_C.Text}";
+        Result.Clear();
+        try
+        {
+            poly = new Polysolve(float.Parse(Var_A.Text), float.Parse(Var_B.Text), float.Parse(Var_C.Text));
+            Result.AppendText($"0 = {poly.Var_A}*{poly.x1}^2 + {poly.Var_B}*{poly.x2} + {poly.Var_C}");
+            Result.AppendText($"{Environment.NewLine}Discriminant = {poly.Discriminant}");
+        }
+        catch (System.Exception)
+        {
+            Result.AppendText("invalid input");
+        }
     }
 
     private void Rens_Click(object? sender, EventArgs e)
     {
-        Result.Text = "";
-        Var_A.Text = "";
-        Var_B.Text = "";
-        Var_C.Text = "";
+        Result.Clear();
+        Var_A.Clear();
+        Var_B.Clear();
+        Var_C.Clear();
     }
 
     private void Afslut_Click(object? sender, EventArgs e)
     {
         Application.Exit();
     }
+
 }
