@@ -1,0 +1,7 @@
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PurpleMachineSimulation\bin\Debug\PurpleMachineSimulation.exe.config
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PurpleMachineSimulation\bin\Debug\PurpleMachineSimulation.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PurpleMachineSimulation\bin\Debug\PurpleMachineSimulation.pdb
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PurpleMachineSimulation\obj\Debug\PurpleMachineSimulation.csproj.AssemblyReference.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PurpleMachineSimulation\obj\Debug\PurpleMachineSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PurpleMachineSimulation\obj\Debug\PurpleMachineSimulation.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\PurpleMachineSimulation\obj\Debug\PurpleMachineSimulation.pdb

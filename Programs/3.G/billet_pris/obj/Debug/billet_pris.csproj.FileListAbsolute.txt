@@ -1,0 +1,10 @@
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\billet_pris\bin\Debug\billet_pris.exe.config
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\billet_pris\bin\Debug\billet_pris.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\billet_pris\bin\Debug\billet_pris.pdb
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\billet_pris\obj\Debug\billet_pris.csproj.AssemblyReference.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\billet_pris\obj\Debug\billet_pris.Form1.resources
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\billet_pris\obj\Debug\billet_pris.Properties.Resources.resources
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\billet_pris\obj\Debug\billet_pris.csproj.GenerateResource.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\billet_pris\obj\Debug\billet_pris.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\billet_pris\obj\Debug\billet_pris.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\billet_pris\obj\Debug\billet_pris.pdb

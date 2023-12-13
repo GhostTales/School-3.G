@@ -1,0 +1,10 @@
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Terning forms\bin\Debug\Terning forms.exe.config
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Terning forms\bin\Debug\Terning forms.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Terning forms\bin\Debug\Terning forms.pdb
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Terning forms\obj\Debug\Terning forms.csproj.AssemblyReference.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Terning forms\obj\Debug\Terning_forms.Form1.resources
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Terning forms\obj\Debug\Terning_forms.Properties.Resources.resources
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Terning forms\obj\Debug\Terning forms.csproj.GenerateResource.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Terning forms\obj\Debug\Terning forms.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Terning forms\obj\Debug\Terning forms.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Terning forms\obj\Debug\Terning forms.pdb

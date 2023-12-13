@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMakeSound interface", "IMakeSound interface.csproj", "{D5E7AEE3-A173-4EB5-8DD2-1D0CC5AF60F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E7AEE3-A173-4EB5-8DD2-1D0CC5AF60F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E7AEE3-A173-4EB5-8DD2-1D0CC5AF60F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E7AEE3-A173-4EB5-8DD2-1D0CC5AF60F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E7AEE3-A173-4EB5-8DD2-1D0CC5AF60F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EDA0031-7FC8-499D-82C4-26F3F97EC2FA}
+	EndGlobalSection
+EndGlobal

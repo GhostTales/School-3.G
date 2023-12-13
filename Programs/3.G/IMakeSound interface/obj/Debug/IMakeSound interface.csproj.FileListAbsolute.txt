@@ -1,0 +1,7 @@
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\IMakeSound interface\bin\Debug\IMakeSound interface.exe.config
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\IMakeSound interface\bin\Debug\IMakeSound interface.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\IMakeSound interface\bin\Debug\IMakeSound interface.pdb
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\IMakeSound interface\obj\Debug\IMakeSound interface.csproj.AssemblyReference.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\IMakeSound interface\obj\Debug\IMakeSound interface.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\IMakeSound interface\obj\Debug\IMakeSound interface.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\IMakeSound interface\obj\Debug\IMakeSound interface.pdb

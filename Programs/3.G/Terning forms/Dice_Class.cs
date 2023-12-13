@@ -1,3 +1,5 @@
+using System;
+
 public class Dice
 {
     private int value;
@@ -6,7 +8,6 @@ public class Dice
 
     public Dice(int n)
     {
-        rnd = new Random();
         this.max = n;
     }
 

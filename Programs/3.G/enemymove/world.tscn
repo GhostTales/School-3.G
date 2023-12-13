@@ -1,0 +1,25 @@
+[gd_scene load_steps=3 format=3 uid="uid://6fny5j5wsita"]
+
+[ext_resource type="Script" path="res://enemy.cs" id="1_jusqo"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_qa08s"]
+size = Vector2(88, 79)
+
+[node name="World" type="Node2D"]
+
+[node name="enemy" type="CharacterBody2D" parent="." node_paths=PackedStringArray("Waypoints")]
+position = Vector2(82, 68)
+script = ExtResource("1_jusqo")
+Waypoints = [NodePath("../WP1"), NodePath("../WP2"), NodePath("../WP3")]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="enemy"]
+shape = SubResource("RectangleShape2D_qa08s")
+
+[node name="WP1" type="Node2D" parent="."]
+position = Vector2(268, 232)
+
+[node name="WP2" type="Node2D" parent="."]
+position = Vector2(469, 298)
+
+[node name="WP3" type="Node2D" parent="."]
+position = Vector2(367, 94)

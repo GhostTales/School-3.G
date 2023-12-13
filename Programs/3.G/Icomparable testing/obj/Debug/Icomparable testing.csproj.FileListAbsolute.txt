@@ -1,0 +1,7 @@
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Icomparable testing\bin\Debug\Icomparable testing.exe.config
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Icomparable testing\bin\Debug\Icomparable testing.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Icomparable testing\bin\Debug\Icomparable testing.pdb
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Icomparable testing\obj\Debug\Icomparable testing.csproj.AssemblyReference.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Icomparable testing\obj\Debug\Icomparable testing.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Icomparable testing\obj\Debug\Icomparable testing.exe
+C:\Users\Dan\OneDrive\HTX\3. G\DDU\School-3.G\Programs\3.G\Icomparable testing\obj\Debug\Icomparable testing.pdb
